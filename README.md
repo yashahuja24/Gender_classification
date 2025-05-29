@@ -16,10 +16,7 @@ Install the required packages by executing the following command.
 ## Usage
 `$ python classify_gender.py -i <input_image> -m gender_classification.model`
 
-## Sample output
-![](sample_output1.jpg)
 
-![](sample_output2.jpg)
-
-## Contact
-Feel free to create a new issue or reach out on twitter [@ponnusamy_arun](https://twitter.com/ponnusamy_arun).
+## Licence
+ Use it for educational purpose only
+ 
